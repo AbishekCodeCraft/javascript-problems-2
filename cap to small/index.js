@@ -1,4 +1,4 @@
-var s = "HELLOW";
+var s = "HELLO";
 var ascii;
 var conv,
   res = "";
